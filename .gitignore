@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+java/springbootrestapi/bin
+java/springbootrestapi/gradle
+java/springbootrestapi/gradlew
+java/springbootrestapi/gradlew.bat
+java/springbootrestapi/.gradle
+java/springbootrestapi/.settings
+java/springbootrestapi/.classpath
+java/springbootrestapi/.project
